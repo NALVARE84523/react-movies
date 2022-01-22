@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NALVARE84523/react-movies/static/css/main.eb938596.css",
+    "main.js": "/NALVARE84523/react-movies/static/js/main.843617a3.js",
+    "index.html": "/NALVARE84523/react-movies/index.html",
+    "main.eb938596.css.map": "/NALVARE84523/react-movies/static/css/main.eb938596.css.map",
+    "main.843617a3.js.map": "/NALVARE84523/react-movies/static/js/main.843617a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb938596.css",
+    "static/js/main.843617a3.js"
+  ]
+}
