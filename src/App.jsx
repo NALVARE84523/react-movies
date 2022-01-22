@@ -6,12 +6,13 @@ import {
   Route,
   Link
 } from "react-router-dom";
+import React, { Component }  from 'react'
 import { MovieDetails } from "./pages/MovieDetails";
 import { LandingPage } from "./pages/LandingPage";
 
 export function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router>
       <header>
         <Link to="/">
           <h1 className={styles.title}>Movies</h1>

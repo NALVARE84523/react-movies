@@ -1,5 +1,6 @@
 import { FaSpinner } from "react-icons/fa";
 import styles from "./Spinner.module.css";
+import React, { Component }  from 'react'
 
 export function Spinner() {
     return (

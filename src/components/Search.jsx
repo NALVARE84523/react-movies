@@ -3,6 +3,7 @@ import { FaSearch } from "react-icons/fa";
 import { useEffect, useState } from "react";
 import { useHistory } from "react-router";
 import { useQuery } from "../hooks/useQuery";
+import React, { Component }  from 'react'
 
 export function Search() {
   const query = useQuery();

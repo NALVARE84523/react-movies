@@ -3,6 +3,7 @@ import styles from "./MovieDetails.module.css";
 import { useParams } from "react-router-dom";
 import { get } from "../utils/httpClient";
 import { Spinner } from "../components/Spinner";
+import React, { Component }  from 'react'
 
 export function MovieDetails() {
   const { movieId } = useParams();

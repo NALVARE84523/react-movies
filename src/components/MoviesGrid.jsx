@@ -5,6 +5,7 @@ import { MovieCard } from "./MovieCard";
 import styles from "./MoviesGrid.module.css";
 import { Spinner } from "./Spinner";
 import InfiniteScroll from "react-infinite-scroll-component";
+import React, { Component }  from 'react'
 
 export function MoviesGrid() {
   const [movies, setMovies] = useState([]);
