@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d28358040344c87aca973c7a2e33d28c",
+    "revision": "f71b4dcc2900f8d1951f66d868409969",
     "url": "/NALVARE84523/react-movies/index.html"
   },
   {
-    "revision": "011ca14ba2a952fd0ceb",
+    "revision": "00305d427c9969a0d021",
     "url": "/NALVARE84523/react-movies/static/css/main.bdfc2a5b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/NALVARE84523/react-movies/static/js/2.95c8142f.chunk.js"
   },
   {
-    "revision": "011ca14ba2a952fd0ceb",
-    "url": "/NALVARE84523/react-movies/static/js/main.e22552de.chunk.js"
+    "revision": "00305d427c9969a0d021",
+    "url": "/NALVARE84523/react-movies/static/js/main.a9dd1618.chunk.js"
   },
   {
     "revision": "85c4f56081a34045b3ea",
