@@ -12,7 +12,7 @@ import { LandingPage } from "./pages/LandingPage";
 
 export function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <header>
         <Link to="/">
           <h1 className={styles.title}>Movies</h1>
